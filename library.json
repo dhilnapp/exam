@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bname": "macbeth",
+      "bwritter": "paul",
+      "bprice": 2500,
+      "bno": 190
+    },
+    {
+      "id": "2",
+      "bname": "hamlet",
+      "bwritter": "william",
+      "bprice": 2000,
+      "bno": 160
+    },
+    {
+      "id": "3",
+      "bname": "dracula",
+      "bwritter": "david",
+      "bprice": 2200,
+      "bno": 240
+    },
+    {
+      "id": "4",
+      "bname": "night",
+      "bwritter": "ellie",
+      "bprice": 1400,
+      "bno": 30
+    },
+    {
+      "id": "6",
+      "bname": "rebecca",
+      "bwritter": "daphne",
+      "bprice": 1200,
+      "bno": 120
+    },
+    {
+      "id": "7",
+      "bname": "persuasion",
+      "bwritter": "jane",
+      "bprice": 1500,
+      "bno": 320
+    },
+    {
+      "bname": "dhilna",
+      "bwritter": "ghg",
+      "bprice": "6767",
+      "bno": "657",
+      "id": "qximL4-"
+    }
+  ]
+}
